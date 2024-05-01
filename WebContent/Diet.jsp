@@ -76,6 +76,7 @@
     <a href="Main.jsp" id="home" class="text-decoration-none">
       <i class="fas fa-home"></i> Home
     </a>
+    
     <form action="Diet_Action.jsp" target="_top">
       <h2>Diet</h2>
       <div class="mb-3">
